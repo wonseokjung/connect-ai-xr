@@ -17,6 +17,14 @@ Paste that line into Claude Code, Codex, Antigravity or Cursor and ask it to ins
 
 Free textbook (AI Night School XR, 7 prompts, in Korean): https://www.aicitybuilders.com/yahak/xr/
 
+<p align="center">
+  <img src="skill/assets/mascot/greet.gif" width="68" alt="XR Craftsman · Greet">&nbsp;
+  <img src="skill/assets/mascot/build.gif" width="68" alt="XR Craftsman · Build">&nbsp;
+  <img src="skill/assets/mascot/check.gif" width="68" alt="XR Craftsman · Check">&nbsp;
+  <img src="skill/assets/mascot/done.gif" width="68" alt="XR Craftsman · Done"><br>
+  <sub><b>Jang Yeong-sil · XR Craftsman</b> (CONNECT AI HQ PixelCrew) — gently animated pixel portrait that switches expression as it greets, designs, verifies, and launches your WebXR world.</sub>
+</p>
+
 <p align="center"><img src="docs/demo.gif" width="100%" alt="The orrery and xr-room apps running in a browser"></p>
 
 ## Five apps to start from

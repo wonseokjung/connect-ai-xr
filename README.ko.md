@@ -17,6 +17,14 @@ Claude Code, Codex, Antigravity, Cursor 채팅창에 이 한 줄 붙여 넣고 �
 
 무료 교재(AI 야학당 XR, 프롬프트 7개): https://www.aicitybuilders.com/yahak/xr/
 
+<p align="center">
+  <img src="skill/assets/mascot/greet.gif" width="68" alt="장영실 XR 장인 · 인사">&nbsp;
+  <img src="skill/assets/mascot/build.gif" width="68" alt="장영실 XR 장인 · 설계">&nbsp;
+  <img src="skill/assets/mascot/check.gif" width="68" alt="장영실 XR 장인 · 검증">&nbsp;
+  <img src="skill/assets/mascot/done.gif" width="68" alt="장영실 XR 장인 · 완료"><br>
+  <sub><b>장영실 · XR 장인</b> (CONNECT AI HQ PixelCrew) — 대화할 때 인사·설계·검증·완료 상태에 맞춰 작게 움직이며 표정이 바뀌는 픽셀 캐릭터예요.</sub>
+</p>
+
 <p align="center"><img src="docs/demo.gif" width="100%" alt="브라우저에서 돌아가는 orrery, xr-room 앱"></p>
 
 ## 바로 써 보는 앱 다섯 개
