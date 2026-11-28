@@ -1,7 +1,7 @@
 {
   "name": "connect-ai-xr",
   "version": "0.1.0",
-  "description": "Your AI XR employee. A skill and five starter apps so your coding agent (Claude Code, Codex, Antigravity, Cursor) builds WebXR apps that open on Meta Quest: AR with passthrough on Quest 3/3S, VR on Quest 2, and a normal 3D view on any computer or phone. Serves them on your network with HTTPS for the headset and checks them in a headless browser.",
+  "description": "Your AI XR automation agent. A skill and five starter apps so your coding agent (Claude Code, Codex, Antigravity, Cursor) builds WebXR apps that open on Meta Quest: AR with passthrough on Quest 3/3S, VR on Quest 2, and a normal 3D view on any computer or phone. Serves them on your network with HTTPS for the headset and checks them in a headless browser.",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE",
   "author": "CONNECT AI LAB",
@@ -27,5 +27,5 @@
     "README.ko.md",
     "LICENSE"
   ],
-  "keywords": ["webxr", "xr", "vr", "ar", "mixed-reality", "meta-quest", "quest-3", "passthrough", "three.js", "agent-skill", "claude-code", "codex", "cursor", "antigravity"]
+  "keywords": ["webxr", "xr", "vr", "ar", "mixed-reality", "meta-quest", "quest-3", "passthrough", "three.js", "agent-skill", "claude-code", "codex", "cursor", "antigravity", "ai-agent", "automation-agent"]
 }

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// connect-ai-xr: your AI XR employee. WebXR apps that open on Meta Quest, with a phone / desktop fallback.
+// connect-ai-xr: your AI XR agent. WebXR apps that open on Meta Quest, with a phone / desktop fallback.
 import fs from 'node:fs';
 import path from 'node:path';
 import {KIT, KIT_NAME, VERSION} from '../lib/name.mjs';
@@ -19,7 +19,7 @@ const q = (f) => (/^[\w@%+=:,./-]+$/.test(f) ? f : JSON.stringify(f));
 
 function hello() {
   log(banner());
-  log('  ' + 'Your AI XR employee. ' + gold('WebXR apps that open on Meta Quest, and on any computer or phone.') + dimmed('  메타 퀘스트에서 열리는 XR 앱'));
+  log('  ' + 'Your AI XR agent. ' + gold('WebXR apps that open on Meta Quest, and on any computer or phone.') + dimmed('  메타 퀘스트에서 열리는 XR 앱'));
   log('');
 }
 
